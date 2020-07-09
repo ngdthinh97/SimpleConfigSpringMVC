@@ -1,0 +1,6 @@
+0:0:0:0:0:0:0:1 - - [30/Jun/2020:10:05:39 +0700] "GET /HelloSpringMVC HTTP/1.1" 302 - http-bio-8080-exec-1 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2020:10:05:39 +0700] "GET /HelloSpringMVC/ HTTP/1.1" 200 99 http-bio-8080-exec-3 106
+0:0:0:0:0:0:0:1 - - [30/Jun/2020:10:05:39 +0700] "GET /favicon.ico HTTP/1.1" 404 - http-bio-8080-exec-4 0
+0:0:0:0:0:0:0:1 - - [30/Jun/2020:10:05:42 +0700] "GET /HelloSpringMVC/static HTTP/1.1" 200 869 http-bio-8080-exec-5 129
+0:0:0:0:0:0:0:1 - - [30/Jun/2020:10:05:42 +0700] "GET /HelloSpringMVC/scripts/common.js HTTP/1.1" 200 66 http-bio-8080-exec-6 19
+0:0:0:0:0:0:0:1 - - [30/Jun/2020:10:05:42 +0700] "GET /HelloSpringMVC/styles/common.css HTTP/1.1" 200 189 http-bio-8080-exec-2 25
